@@ -1,35 +1,13 @@
-![SEUGURU BANNER](https://media-exp1.licdn.com/dms/image/C4D1BAQEki2guTiV5ig/company-background_10000/0/1623163207635?e=2147483647&v=beta&t=1G28ZYGj9ph2ZRu9-udrU3kHZnDNZh3nNdqA_tgJjG8)
+![SEUGURU BANNER](https://media.licdn.com/dms/image/D5616AQE4vgCzTbDcvg/profile-displaybackgroundimage-shrink_350_1400/0/1699402979277?e=1719446400&v=beta&t=CDU4BZq95t7ibbn24_pLiNKirwkN42ip2cf9kkAuikc)
 
-![GURU](https://www.seuguru.com.br/images/guru-first-section.webp)
+O Gurupass nasceu de uma ideia simples, mas impactante: proporcionar às pessoas a liberdade e flexibilidade para treinar quando e onde quiserem, sem complicações.
 
-SEUGURU é beneficio para o profissional autônomo, <br />estamos em busca de pessoas para ajudar a melhorar a vida dos autônomos!
+Sabemos que cada pessoa é única e possui necessidades diferentes quando se trata de exercícios físicos. Por isso, estamos aqui para ajudar as pessoas a experimentar novas formas de se exercitar e criar experiências únicas na sua jornada de bem-estar.
 
-**Topa esse desafio ?**
+Queremos oferecer recursos para que as pessoas consigam priorizar sua saúde e tenham a oportunidade de cuidar do corpo e da mente, através de acesso democratizado à atividade física.
 
-**Vagas para:**
-  - Frontend
-    - React
-    - Next
-    - Typescript
-    - Jest
-    - Cypress
-  - Backend
-    - Ruby On Rails
-    - NodeJS
-    - Docker
-    - Postgres
-    - MongoDB
 
-Não é necessário o conhecimento em todas as tecnologias e temos vagas para todos os níveis(junior, pleno, senior)
-  
-**Beneficios já disponíveis**
-  - [Gympass](https://www.seuguru.com.br/gympass)
-  - [Tem Saude](https://www.seuguru.com.br/tem)
-  - [Assistência PET](https://www.seuguru.com.br/assistencia-pet)
-  - Seguro Acidente Pessoais
-  - [Seguro Residencial](https://www.seuguru.com.br/too)
+👳‍♀️ [@GURUPASS_]([https://www.instagram.com/souseuguru/](https://www.instagram.com/gurupass_/))
 
-👳‍♀️ [@SOUSEUGURU](https://www.instagram.com/souseuguru/)
-
-👉 [SITE](https://www.seuguru.com.br)
+👉 [SITE](https://www.gurupass.com.br)
 
