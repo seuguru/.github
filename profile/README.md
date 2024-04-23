@@ -7,7 +7,7 @@ Sabemos que cada pessoa é única e possui necessidades diferentes quando se tra
 Queremos oferecer recursos para que as pessoas consigam priorizar sua saúde e tenham a oportunidade de cuidar do corpo e da mente, através de acesso democratizado à atividade física.
 
 
-👳‍♀️ [@GURUPASS_]([https://www.instagram.com/souseuguru/](https://www.instagram.com/gurupass_/))
+👳‍♀️ [@GURUPASS_](https://www.instagram.com/gurupass_/)
 
 👉 [SITE](https://www.gurupass.com.br)
 
